@@ -2,9 +2,7 @@
 Docker image for Debian with Xfce4 desktop environment.
 
 # Supported tags
-- [10.7, latest](https://github.com/l3e0x7b/docker-debian-xfce4/blob/main/Dockerfile)
-- [10.6](https://github.com/l3e0x7b/docker-debian-xfce4/blob/10.6/Dockerfile)
-- [10.5](https://github.com/l3e0x7b/docker-debian-xfce4/blob/10.5/Dockerfile)
+- [latest](https://github.com/l3e0x7b/docker-debian-xfce4/blob/main/Dockerfile)
 
 # How to use
 ## Step 1
